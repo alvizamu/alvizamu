@@ -15,4 +15,4 @@ C · Bash · Python · Git
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/alvise-zamuner/)
+[LinkedIn](https://www.linkedin.com/in/alvise-zamuner/) · [alvi.zamuner@gmail.com](mailto:alvi.zamuner@gmail.com)
